@@ -15,8 +15,7 @@
 ###
 
 <h2 align="left">I code with</h2>
-
-<img src="https://tenor.com/view/chill-coding-gif-1146092527397822296" height="40" alt="javascript logo"  />
+<div class="tenor-gif-embed" data-postid="1146092527397822296" data-share-method="host" data-aspect-ratio="3.07407" data-width="100%"><a href="https://tenor.com/view/chill-coding-gif-1146092527397822296">Chill Coding GIF</a>from <a href="https://tenor.com/search/chill-gifs">Chill GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <div align="left">
