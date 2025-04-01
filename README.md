@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Santiago Lopez and I'm a Software Engineering student, from [Tu Ciudad o País]. I'm passionate about web development, coding, and solving complex problems!</p>
+<p align="left">My name is Santiago Lopez and I'm a Software Engineering student, from Medellin / Colombia . I'm passionate about web development, coding, and solving complex problems!</p>
 
 ###
 
